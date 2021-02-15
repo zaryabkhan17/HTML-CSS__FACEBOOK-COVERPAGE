@@ -1,0 +1,32 @@
+.one {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(248, 247, 247);
+    max-width: 1200px;
+    min-width: 400px;
+}
+img {
+    width: 100%;
+}
+ .btn {
+    background-color: rgb(201, 51, 5);
+    font-weight: bolder;
+    width: 80px;
+    height: 30px;
+    border: 1px solid rgb(3, 104, 199);
+    display: inline;
+}
+
+.btn2 {
+    width: 80px;
+    height: 30px;
+    background-color: rgb(240, 28, 0);
+    font-weight: bolder;
+    border: 1px solid rgb(21, 9, 73);
+    display: inline;
+float: right;
+}
+body{
+    background: linear-gradient(to right, rgb(0, 0, 204), rgb(48, 48, 241), rgb(3, 104, 199) );
+}
